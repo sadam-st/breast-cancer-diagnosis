@@ -24,3 +24,6 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/breast-cancer-diagnosis.git
+1. To train the model:
+   ```bash
+   python diagnosis_multimodal.py
