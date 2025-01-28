@@ -27,3 +27,14 @@
 1. To train the model:
    ```bash
    python diagnosis_multimodal.py
+   
+## How to Run
+To cite our work:
+  ```bash
+@article{hussain2024multiview,
+  title={Multiview Multimodal Feature Fusion for Breast Cancer Classification Using Deep Learning},
+  author={Hussain, Sadam and Ali, Mansoor and Naseem, Usman and Avalos, Daly Betzabeth Avenda{\~n}o and Cardona-Huerta, Servando and Tamez-Pe{\~n}a, Jose Gerardo},
+  journal={IEEE Access},
+  year={2024},
+  publisher={IEEE}
+}
