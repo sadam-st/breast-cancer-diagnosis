@@ -2,7 +2,7 @@
 
 **Deep learning-based multiview multimodal feature fusion (MMFF) for breast cancer classification using mammograms and radiological features.**
 
-![alt text](images/diagram_mamo_v3.pdf)
+![Screenshot](images/diagram_mamo_v3.pdf)
 
 ## Features
 - **Multiview Mammograms:** Includes four views: Cranio-Caudal (CC) and Medio-Lateral-Oblique (MLO) for both breasts.
