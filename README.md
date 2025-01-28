@@ -4,6 +4,8 @@
 
 ![Screenshot](images/diagram_se.png)
 
+Fig: The proposed multiview multimodal architecture for breast cancer classification integrates imaging and textual data. ResNet50 with squeeze-and-excitation blocks extracts imaging features, while an ANN processes tabular metadata. Late fusion combines four mammographic views (LCC, LMLO, RCC, RMLO) with textual data (e.g., BIRADS scores), feeding an ANN classifier for accurate and robust breast cancer classification.
+
 ## Features
 - **Multiview Mammograms:** Includes four views: Cranio-Caudal (CC) and Medio-Lateral-Oblique (MLO) for both breasts.
 - **Multimodal Data:** Combines imaging features from SE-ResNet50 with textual features extracted from radiological reports.
